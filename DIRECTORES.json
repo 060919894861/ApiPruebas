@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "644c39573482b0c919c1f3f9"
+  },
+  "Fecha_Nacimiento": "1987-03-04",
+  "Nombre_Director": "Denis Villeneuve"
+},{
+  "_id": {
+    "$oid": "644c39573482b0c919c1f3fa"
+  },
+  "Fecha_Nacimiento": "1970-07-30",
+  "Nombre_Director": "Christopher Nolan"
+},{
+  "_id": {
+    "$oid": "644c3a5b3482b0c919c1f3fc"
+  },
+  "Fecha_Nacimiento": "1942-11-17",
+  "Nombre_Director": "Martin Scorsese"
+},{
+  "_id": {
+    "$oid": "644c3a5b3482b0c919c1f3fd"
+  },
+  "Fecha_Nacimiento": "1963-03-27",
+  "Nombre_Director": "Quentin Tarantino"
+},{
+  "_id": {
+    "$oid": "644c3a5b3482b0c919c1f3fe"
+  },
+  "Fecha_Nacimiento": "1928-07-26",
+  "Nombre_Director": "Stanley Kubrick"
+}]

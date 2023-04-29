@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6447550a6fa119613e87b013"
+  },
+  "Titulo": "La sospecha",
+  "Año_Lanzamiento": 2013,
+  "Duracion": "2h 33m"
+},{
+  "_id": {
+    "$oid": "64475b596fa119613e87b01b"
+  },
+  "Titulo": "El origen",
+  "Año_Lanzamiento": 2010,
+  "Duracion": "2h 22m"
+},{
+  "_id": {
+    "$oid": "64475b596fa119613e87b01c"
+  },
+  "Titulo": "La llegada",
+  "Año_Lanzamiento": 2016,
+  "Duracion": "1h 56m"
+},{
+  "_id": {
+    "$oid": "64475b596fa119613e87b01d"
+  },
+  "Titulo": "Interestelar",
+  "Año_Lanzamiento": 2014,
+  "Duracion": "2h 49m"
+},{
+  "_id": {
+    "$oid": "64475b596fa119613e87b01e"
+  },
+  "Titulo": "Amnesia",
+  "Año_Lanzamiento": 2002,
+  "Duracion": "1h 53m"
+}]

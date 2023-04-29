@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "644c3c9b3482b0c919c1f404"
+  },
+  "Nombre_Actor": "Will Smith",
+  "Fecha_Nacimiento": "1968-09-25",
+  "Empresa_Producción": "Overbrook Entertainment, Westbrook"
+},{
+  "_id": {
+    "$oid": "644c3c9b3482b0c919c1f405"
+  },
+  "Nombre_Actor": "Johnny Depp",
+  "Fecha_Nacimiento": "1963-06-09",
+  "Empresa_Producción": "Infinitum Nihil"
+},{
+  "_id": {
+    "$oid": "644c3c9b3482b0c919c1f406"
+  },
+  "Nombre_Actor": "Dwayne Johnson",
+  "Fecha_Nacimiento": "1972-05-02",
+  "Empresa_Producción": "Seven Bucks Productions"
+},{
+  "_id": {
+    "$oid": "644c3c9b3482b0c919c1f407"
+  },
+  "Nombre_Actor": "Vin Diesel",
+  "Fecha_Nacimiento": "1967-07-18",
+  "Empresa_Producción": "One Race Films, Racetrack Records"
+},{
+  "_id": {
+    "$oid": "644c3c9b3482b0c919c1f408"
+  },
+  "Nombre_Actor": "Bruce Willis",
+  "Fecha_Nacimiento": "1955-03-19",
+  "Empresa_Producción": "Cheyenne Enterprises"
+}]
